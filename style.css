@@ -1,0 +1,59 @@
+.block{
+    border: 1px dotted;
+    margin: 20px;
+    padding: 20px;
+    display: flex;
+}
+p{
+    font-size: 24px;
+}
+.b1{
+    font-family: 'Uchen', serif;
+}
+.b2{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.b3{
+    font-family: 'Square Peg', cursive;
+}
+.inner{
+    width: 150px;
+    height: 150px;
+    background-color: aqua;
+    margin: 10px;
+}
+   
+.blocks1{
+    border: solid ;
+    background-color: white;
+}
+
+.blocks2{
+    border-left: solid;
+    border-right: solid;
+    background: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
